@@ -1,0 +1,11 @@
+c:\users\player\source\repos\TasksAPI\TasksAPI\bin\Debug\netcoreapp2.0\TasksAPI.deps.json
+c:\users\player\source\repos\TasksAPI\TasksAPI\bin\Debug\netcoreapp2.0\TasksAPI.runtimeconfig.json
+c:\users\player\source\repos\TasksAPI\TasksAPI\bin\Debug\netcoreapp2.0\TasksAPI.runtimeconfig.dev.json
+c:\users\player\source\repos\TasksAPI\TasksAPI\bin\Debug\netcoreapp2.0\TasksAPI.dll
+c:\users\player\source\repos\TasksAPI\TasksAPI\obj\Debug\netcoreapp2.0\TasksAPI.csprojAssemblyReference.cache
+c:\users\player\source\repos\TasksAPI\TasksAPI\obj\Debug\netcoreapp2.0\TasksAPI.csproj.CoreCompileInputs.cache
+c:\users\player\source\repos\TasksAPI\TasksAPI\obj\Debug\netcoreapp2.0\TasksAPI.AssemblyInfoInputs.cache
+c:\users\player\source\repos\TasksAPI\TasksAPI\obj\Debug\netcoreapp2.0\TasksAPI.AssemblyInfo.cs
+c:\users\player\source\repos\TasksAPI\TasksAPI\bin\Debug\netcoreapp2.0\TasksAPI.pdb
+c:\users\player\source\repos\TasksAPI\TasksAPI\obj\Debug\netcoreapp2.0\TasksAPI.dll
+c:\users\player\source\repos\TasksAPI\TasksAPI\obj\Debug\netcoreapp2.0\TasksAPI.pdb
