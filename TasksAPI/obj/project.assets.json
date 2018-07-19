@@ -13257,11 +13257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\player\\source\\repos\\TasksAPI\\TasksAPI\\TasksAPI.csproj",
+      "projectUniqueName": "C:\\Users\\player\\Documents\\TodoAPI\\TasksAPI\\TasksAPI.csproj",
       "projectName": "TasksAPI",
-      "projectPath": "c:\\users\\player\\source\\repos\\TasksAPI\\TasksAPI\\TasksAPI.csproj",
+      "projectPath": "C:\\Users\\player\\Documents\\TodoAPI\\TasksAPI\\TasksAPI.csproj",
       "packagesPath": "C:\\Users\\player\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\player\\source\\repos\\TasksAPI\\TasksAPI\\obj\\",
+      "outputPath": "C:\\Users\\player\\Documents\\TodoAPI\\TasksAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

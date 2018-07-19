@@ -23,7 +23,7 @@ namespace TasksAPI.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<TodoListItemDto> Get(TodoItemStatus? status)
+        public IActionResult<TodoListItemDto> Get(TodoItemStatus? status)
         {
 
             var item =  _dbContext.Tasks.Where(t => t.Status == status);
